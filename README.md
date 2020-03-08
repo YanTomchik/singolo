@@ -1,1 +1,1 @@
-# singolo
+# https://yantomchik.github.io/singolo
